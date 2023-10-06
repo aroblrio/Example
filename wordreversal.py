@@ -1,0 +1,6 @@
+word = input("Introduce una frase ", )
+word = word.split()
+print(word)
+word = reversed(word)
+word = str(word)
+print(word)
